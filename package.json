@@ -1,0 +1,23 @@
+{
+  "name": "psiarozwijanka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciekJozwicki/PsiaRozwijanka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciekJozwicki/PsiaRozwijanka/issues"
+  },
+  "homepage": "https://github.com/MaciekJozwicki/PsiaRozwijanka#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}

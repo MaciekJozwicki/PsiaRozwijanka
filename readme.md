@@ -1,1 +1,1 @@
-https://maciekjozwicki.github.io/goit-markup-hw-08/
+Website of the dog training company "Psia Rozwijanka"
